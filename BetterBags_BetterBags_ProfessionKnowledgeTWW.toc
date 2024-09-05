@@ -1,0 +1,10 @@
+## Interface: 110002
+## Title: BetterBags - Profession Knowledge (The War Within)
+## Author: Zazou
+## Version: @project-version@
+## Notes: Categories for all Profession Knowledge Items
+## Dependencies: BetterBags
+## X-Curse-Project-ID: x
+## IconTexture: Interface\Icons\inv_10_specialization_professionbook_enchanting_color1
+
+main.lua

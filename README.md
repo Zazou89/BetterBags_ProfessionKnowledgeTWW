@@ -2,8 +2,9 @@
 This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Professions Knowledge Items, including :
 
 - Knowledge items from hidden treasures
-- Weekly knowledge from professions
-- Weekly knowledge from treatises
+- Weekly knowledge items from professions
+- Weekly knowledge items from treatises
+- Knowledge items from NPC Crafting Orders
 - Knowledge items bought from Lyrendal
 - Knowledge items bought from profession trainers in Azj-Kahet
 - Knowledge items bought from Renown Quartermasters
