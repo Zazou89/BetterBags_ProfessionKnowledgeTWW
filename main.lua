@@ -85,6 +85,8 @@ local itemsByProfession = {
             227409, --Faded Alchemist's Research
             227420, --Exceptional Alchemist's Research
             227431, --Pristine Alchemist's Research
+            --Knowledge Points books from profession trainers in the City of Threads
+            224024, --Theories of Bodily Transmutation, Chapter 8
         }
     },
 
@@ -112,6 +114,8 @@ local itemsByProfession = {
             227407, --Faded Blacksmith's Diagrams
             227418, --Exceptional Blacksmith's Diagrams
             227429, --Pristine Blacksmith's Diagrams
+            --Knowledge Points books from profession trainers in the City of Threads
+            224038, --Smithing After Saronite
         }
     },  
 
@@ -141,6 +145,8 @@ local itemsByProfession = {
             227411, --Faded Enchanter's Research
             227422, --Exceptional Enchanter's Research
             227433, --Pristine Enchanter's Research
+            --Knowledge Points books from profession trainers in the City of Threads
+            224050, --Web Sparkles: Pretty and Powerful
         }
     },
 
@@ -168,6 +174,8 @@ local itemsByProfession = {
             227412, --Faded Engineer's Scribblings
             227423, --Exceptional Engineer's Scribblings
             227434, --Pristine Engineer's Scribblings
+            --Knowledge Points books from profession trainers in the City of Threads
+            224052, --Clocks, Gears, Sprockets, and Legs
         }
     },
 
@@ -192,6 +200,8 @@ local itemsByProfession = {
             227415, --Faded Herbalist's Notes
             227426, --Exceptional Herbalist's Notes
             227437, --Pristine Herbalist's Notes
+            --Knowledge Points books from profession trainers in the City of Threads
+            224023, --Herbal Embalming Techniques
         }
     },
 
@@ -219,6 +229,8 @@ local itemsByProfession = {
             227408, --Faded Scribe's Runic Drawings
             227419, --Exceptional Scribe's Runic Drawings
             227430, --Pristine Scribe's Runic Drawings
+            --Knowledge Points books from profession trainers in the City of Threads
+            224053, --Eight Views on Defense against Hostile Runes
         }
     },
 
@@ -246,6 +258,8 @@ local itemsByProfession = {
             227413, --Faded Jeweler's Illustrations
             227424, --Exceptional Jeweler's Illustrations
             227435, --Pristine Jeweler's Illustrations
+            --Knowledge Points books from profession trainers in the City of Threads
+            224054, --Emergent Crystals of the Surface-Dwellers
         }
     },
 
@@ -273,6 +287,8 @@ local itemsByProfession = {
             227414, --Faded Leatherworker's Diagrams
             227425, --Exceptional Leatherworker's Diagrams
             227436, --Pristine Leatherworker's Diagrams
+            --Knowledge Points books from profession trainers in the City of Threads
+            224056, --Uses for Leftover Husks (After You Take Them Apart)
         }
     },
 
@@ -297,6 +313,8 @@ local itemsByProfession = {
             227416, --Faded Miner's Notes
             227427, --Exceptional Miner's Notes
             227438, --Pristine Miner's Notes
+            --Knowledge Points books from profession trainers in the City of Threads
+            224055, --A Rocky Start
         }
     },
 
@@ -321,6 +339,8 @@ local itemsByProfession = {
             227417, --Faded Skinner's Notes
             227428, --Exceptional Skinner's Notes
             227439, --Pristine Skinner's Notes
+            --Knowledge Points books from profession trainers in the City of Threads
+            224007, --Uses for Leftover Husks (How to Take Them Apart)
         }
     },
     
@@ -348,6 +368,8 @@ local itemsByProfession = {
             227410, --Faded Tailor's Diagrams
             227421, --Exceptional Tailor's Diagrams
             227432, --Pristine Tailor's Diagrams
+            --Knowledge Points books from profession trainers in the City of Threads
+            224036, --And That's A Web-Wrap!
         }
     },
 }
