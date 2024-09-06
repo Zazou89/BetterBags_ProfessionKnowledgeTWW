@@ -6,20 +6,17 @@ local categories = addon:GetModule('Categories')
 
 -- Table of profession IDs
 local professionIDs = {
-    [164] = "Blacksmithing",
-    [165] = "Leatherworking",
     [171] = "Alchemy",
-    [182] = "Herbalism",
-    [185] = "Cooking",
-    [186] = "Mining",
-    [197] = "Tailoring",
-    [202] = "Engineering",
+    [164] = "Blacksmithing",
     [333] = "Enchanting",
-    [755] = "Jewelcrafting",
+    [202] = "Engineering",
+    [182] = "Herbalism",
     [773] = "Inscription",
-    [794] = "Archaeology",
-    [356] = "Fishing",
+    [755] = "Jewelcrafting",
+    [165] = "Leatherworking",
+    [186] = "Mining",
     [393] = "Skinning",
+    [197] = "Tailoring",
 }
 
 -- Localization table
