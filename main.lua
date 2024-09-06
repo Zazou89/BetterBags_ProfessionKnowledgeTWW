@@ -209,6 +209,8 @@ local itemsByProfession = {
             224023, --Herbal Embalming Techniques
             --Knowledge items bought from Renown Quartermasters
             224656, --Void-Lit Herbalism Notes
+            --Weekly quest rewards
+            224817, --Algari Herbalist's Notes
         }
     },
 
@@ -330,6 +332,8 @@ local itemsByProfession = {
             224055, --A Rocky Start
             --Knowledge items bought from Renown Quartermasters
             224651, --Machine-Learned Mining Notes
+            --Weekly quest rewards
+            224818, --Algari Miner's Notes
         }
     },
 
@@ -358,6 +362,8 @@ local itemsByProfession = {
             224007, --Uses for Leftover Husks (How to Take Them Apart)
             --Knowledge items bought from Renown Quartermasters
             224657, --Void-Lit Skinning Notes
+            --Weekly quest rewards 
+            224807, --Algari Skinner's Notes          
         }
     },
     
