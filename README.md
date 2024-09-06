@@ -11,7 +11,7 @@ Don't leave your knowledge points lying around in your bags! This addon must be 
 
 
 # Preview
-x
+![Preview](https://i.imgur.com/JHpRpiC.jpeg)
 
 # Discover my other plugins
 I've created a few plugins for BetterBags:
