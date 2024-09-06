@@ -87,6 +87,8 @@ local itemsByProfession = {
             227431, --Pristine Alchemist's Research
             --Knowledge Points books from profession trainers in the City of Threads
             224024, --Theories of Bodily Transmutation, Chapter 8
+            --Knowledge items bought from Renown Quartermasters
+            224645, --Jewel-Etched Alchemy Notes
         }
     },
 
@@ -116,6 +118,8 @@ local itemsByProfession = {
             227429, --Pristine Blacksmith's Diagrams
             --Knowledge Points books from profession trainers in the City of Threads
             224038, --Smithing After Saronite
+            --Knowledge items bought from Renown Quartermasters
+            224647, --Jewel-Etched Blacksmithing Notes
         }
     },  
 
@@ -147,6 +151,8 @@ local itemsByProfession = {
             227433, --Pristine Enchanter's Research
             --Knowledge Points books from profession trainers in the City of Threads
             224050, --Web Sparkles: Pretty and Powerful
+            --Knowledge items bought from Renown Quartermasters
+            224652, --Jewel-Etched Enchanting Notes 
         }
     },
 
@@ -176,6 +182,8 @@ local itemsByProfession = {
             227434, --Pristine Engineer's Scribblings
             --Knowledge Points books from profession trainers in the City of Threads
             224052, --Clocks, Gears, Sprockets, and Legs
+            --Knowledge items bought from Renown Quartermasters
+            224653, --Machine-Learned Engineering Notes
         }
     },
 
@@ -202,6 +210,8 @@ local itemsByProfession = {
             227437, --Pristine Herbalist's Notes
             --Knowledge Points books from profession trainers in the City of Threads
             224023, --Herbal Embalming Techniques
+            --Knowledge items bought from Renown Quartermasters
+            224656, --Void-Lit Herbalism Notes
         }
     },
 
@@ -231,6 +241,8 @@ local itemsByProfession = {
             227430, --Pristine Scribe's Runic Drawings
             --Knowledge Points books from profession trainers in the City of Threads
             224053, --Eight Views on Defense against Hostile Runes
+            --Knowledge items bought from Renown Quartermasters
+            224654, --Machine-Learned Inscription Notes
         }
     },
 
@@ -260,6 +272,8 @@ local itemsByProfession = {
             227435, --Pristine Jeweler's Illustrations
             --Knowledge Points books from profession trainers in the City of Threads
             224054, --Emergent Crystals of the Surface-Dwellers
+            --Knowledge items bought from Renown Quartermasters
+            224655, --Void-Lit Jewelcrafting Notes
         }
     },
 
@@ -289,6 +303,8 @@ local itemsByProfession = {
             227436, --Pristine Leatherworker's Diagrams
             --Knowledge Points books from profession trainers in the City of Threads
             224056, --Uses for Leftover Husks (After You Take Them Apart)
+            --Knowledge items bought from Renown Quartermasters
+            224658, --Void-Lit Leatherworking Notes
         }
     },
 
@@ -315,6 +331,8 @@ local itemsByProfession = {
             227438, --Pristine Miner's Notes
             --Knowledge Points books from profession trainers in the City of Threads
             224055, --A Rocky Start
+            --Knowledge items bought from Renown Quartermasters
+            224651, --Machine-Learned Mining Notes
         }
     },
 
@@ -341,6 +359,8 @@ local itemsByProfession = {
             227439, --Pristine Skinner's Notes
             --Knowledge Points books from profession trainers in the City of Threads
             224007, --Uses for Leftover Husks (How to Take Them Apart)
+            --Knowledge items bought from Renown Quartermasters
+            224657, --Void-Lit Skinning Notes
         }
     },
     
@@ -370,6 +390,8 @@ local itemsByProfession = {
             227432, --Pristine Tailor's Diagrams
             --Knowledge Points books from profession trainers in the City of Threads
             224036, --And That's A Web-Wrap!
+            --Knowledge items bought from Renown Quartermasters
+            224648, --Jewel-Etched Tailoring Notes
         }
     },
 }

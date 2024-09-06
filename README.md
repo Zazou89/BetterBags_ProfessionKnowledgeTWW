@@ -1,12 +1,12 @@
 # BetterBags - Profession Knowledge - The War Within
-This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Professions Knowledge Items, including :
+Don't leave your knowledge points lying around in your bags! This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Professions Knowledge Items, including :
 
-- Knowledge items from hidden treasures X
-- Weekly knowledge items from professions X
-- Weekly knowledge items from treatises X
-- Knowledge items from NPC Crafting Orders X
-- Knowledge items bought from Lyrendal x 
-- Knowledge points books from profession trainers in the City of Threads
+- Knowledge items from hidden treasures
+- Weekly knowledge items from professions
+- Weekly knowledge items from treatises
+- Knowledge items from NPC Crafting Orders
+- Knowledge items bought from Lyrendal
+- Knowledge items books from profession trainers in the City of Threads
 - Knowledge items bought from Renown Quartermasters
 
 
