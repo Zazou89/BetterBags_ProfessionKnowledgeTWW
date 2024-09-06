@@ -75,6 +75,9 @@ local itemsByProfession = {
             226272, -- Dark Apothecary's Vial
             --Treatise
             222546, -- Algari Treatise on Alchemy
+            -- NPC Crafting Orders
+            228724, --Flicker of Alchemy Knowledge
+            228725, --Glimmer of Alchemy Knowledge
         }
     },
 
@@ -92,6 +95,9 @@ local itemsByProfession = {
             226280, -- Holy Flame Forge
             --Treatise
             222554, -- Algari Treatise on Blacksmithing 
+            -- NPC Crafting Orders
+            228726, --Flicker of Blacksmithing Knowledge
+            228727, --Glimmer of Blacksmithing Knowledge
         }
     },  
 
@@ -109,6 +115,9 @@ local itemsByProfession = {
             226291, -- Void Shard            
             --Treatise
             222550, -- Algari Treatise on Enchanting
+            -- NPC Crafting Orders
+            228728, --Flicker of Enchanting Knowledge
+            228729, --Glimmer of Enchanting Knowledge
         }
     },
 
@@ -126,6 +135,9 @@ local itemsByProfession = {
             226292, -- Rock Engineer's Wrench
             --Treatise
             222621, -- Algari Treatise on Engineering
+            -- NPC Crafting Orders
+            228730, --Flicker of Engineering Knowledge
+            228731, --Glimmer of Engineering Knowledge
         }
     },
 
@@ -160,6 +172,9 @@ local itemsByProfession = {
             226315, -- Venomancer's Ink Well
             --Treatise
             222548, -- Algari Treatise on Inscription
+            -- NPC Crafting Orders
+            228732, --Flicker of Inscription Knowledge
+            228733, --Glimmer of Inscription Knowledge
         }
     },
 
@@ -177,6 +192,9 @@ local itemsByProfession = {
             226323, -- Nerubian Bench Blocks
             --Treatise
             222551, -- Algari Treatise on Jewelcrafting
+            -- NPC Crafting Orders
+            228734, --Flicker of Jewelcrafting Knowledge
+            228735, --Glimmer of Jewelcrafting Knowledge
         }
     },
 
@@ -193,7 +211,10 @@ local itemsByProfession = {
             226325, -- Dornogal Craftsman's Flat Knife
             226331, -- Curved Nerubian Skinning Knife
             --Treatise   
-            222549, -- Algari Treatise on Leatherworking         
+            222549, -- Algari Treatise on Leatherworking    
+            -- NPC Crafting Orders
+            228736, --Flicker of Leatherworking Knowledge
+            228737, --Glimmer of Leatherworking Knowledge 
         }
     },
 
@@ -245,6 +266,9 @@ local itemsByProfession = {
             226348, -- Dornogal Seam Ripper
             --Treatise
             222547, -- Algari Treatise on Tailoring
+            -- NPC Crafting Orders
+            228738, --Flicker of Tailoring Knowledge
+            228739, --Glimmer of Tailoring Knowledge
         }
     },
 }
