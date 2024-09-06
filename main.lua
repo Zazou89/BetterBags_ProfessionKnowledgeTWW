@@ -78,6 +78,9 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228724, --Flicker of Alchemy Knowledge
             228725, --Glimmer of Alchemy Knowledge
+            -- Weekly knowledge items
+            225234, --Alchemical Sediment
+            225235, --Deepstone Crucible
         }
     },
 
@@ -98,6 +101,9 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228726, --Flicker of Blacksmithing Knowledge
             228727, --Glimmer of Blacksmithing Knowledge
+            -- Weekly knowledge items
+            225232, --Coreway Billet
+            225233, --Dense Bladestone
         }
     },  
 
@@ -118,6 +124,11 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228728, --Flicker of Enchanting Knowledge
             228729, --Glimmer of Enchanting Knowledge
+            -- Weekly knowledge items
+            225230, --Crystalline Repository
+            225231, --Powdered Fulgurance
+            227659, --Fleeting Arcane Manifestation
+            227661, --Gleaming Telluric Crystal
         }
     },
 
@@ -138,6 +149,10 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228730, --Flicker of Engineering Knowledge
             228731, --Glimmer of Engineering Knowledge
+            -- Weekly knowledge items
+            225229, --Earthen Induction Coil
+            225228, --Rust-Locked Mechanism
+            
         }
     },
 
@@ -155,6 +170,9 @@ local itemsByProfession = {
             226307, -- Tunneler's Shovel
             --Treatise
             222552, -- Algari Treatise on Herbalism
+            -- Weekly knowledge items
+            224264, --Deepgrove Rose Petal
+            224265, --Deepgrove Rose
         }
     },
 
@@ -175,6 +193,9 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228732, --Flicker of Inscription Knowledge
             228733, --Glimmer of Inscription Knowledge
+            -- Weekly knowledge items
+            225226, --Striated Inkstone
+            225227, --Wax-Sealed Records
         }
     },
 
@@ -195,6 +216,9 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228734, --Flicker of Jewelcrafting Knowledge
             228735, --Glimmer of Jewelcrafting Knowledge
+            -- Weekly knowledge items
+            225225, --Deepstone Fragment
+            225224, --Diaphanous Gem Shards
         }
     },
 
@@ -215,6 +239,9 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228736, --Flicker of Leatherworking Knowledge
             228737, --Glimmer of Leatherworking Knowledge 
+            -- Weekly knowledge items
+            225222, --Stone-Leather Swatch
+            225223, --Sturdy Nerubian Carapace
         }
     },
 
@@ -232,6 +259,9 @@ local itemsByProfession = {
             226332, -- Earthen Miner's Gavel
             --Treatise
             222553, -- Algari Treatise on Mining
+            -- Weekly knowledge items
+            224583, --Slab of Slate
+            224584, --Erosion Polished Slate
         }
     },
 
@@ -249,6 +279,10 @@ local itemsByProfession = {
             226346, -- Nerubian's Slicking Iron
             --Treatise
             222649, -- Algari Treatise on Skinning
+            -- Weekly knowledge items
+            224780, --Toughened Tempest Pelt
+            224781, --Abyssal Fur
+            
         }
     },
     
@@ -269,6 +303,9 @@ local itemsByProfession = {
             -- NPC Crafting Orders
             228738, --Flicker of Tailoring Knowledge
             228739, --Glimmer of Tailoring Knowledge
+            -- Weekly knowledge items
+            225220, --Chitin Needle
+            225221, --Spool of Webweave 
         }
     },
 }
