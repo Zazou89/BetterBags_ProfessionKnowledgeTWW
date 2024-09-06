@@ -393,6 +393,9 @@ local itemsByProfession = {
     },
 }
 
+local colorPrefix = "|cffff6961"
+local resetColor = "|r"
+
 -- Loop through all items and add them to categories
 for professionName, professionData in pairs(itemsByProfession) do
     local professionID = professionData.id
@@ -400,7 +403,7 @@ for professionName, professionData in pairs(itemsByProfession) do
     local localizedProfessionName = localizedProfessionNames[professionID]
     if localizedProfessionName then
         for _, itemID in pairs(itemList) do
-            categories:AddItemToCategory(itemID, L("KnowledgePoint") .. " : " .. localizedProfessionName)
+            categories:AddItemToCategory(itemID, colorPrefix .. L("KnowledgePoint") .. " : " .. localizedProfessionName .. resetColor)
         end
     end
 end
