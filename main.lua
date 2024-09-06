@@ -81,6 +81,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225234, --Alchemical Sediment
             225235, --Deepstone Crucible
+            -- Knowledge items bought from Lyrendal
+            227409, --Faded Alchemist's Research
+            227420, --Exceptional Alchemist's Research
+            227431, --Pristine Alchemist's Research
         }
     },
 
@@ -104,6 +108,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225232, --Coreway Billet
             225233, --Dense Bladestone
+            -- Knowledge items bought from Lyrendal
+            227407, --Faded Blacksmith's Diagrams
+            227418, --Exceptional Blacksmith's Diagrams
+            227429, --Pristine Blacksmith's Diagrams
         }
     },  
 
@@ -129,6 +137,10 @@ local itemsByProfession = {
             225231, --Powdered Fulgurance
             227659, --Fleeting Arcane Manifestation
             227661, --Gleaming Telluric Crystal
+            -- Knowledge items bought from Lyrendal
+            227411, --Faded Enchanter's Research
+            227422, --Exceptional Enchanter's Research
+            227433, --Pristine Enchanter's Research
         }
     },
 
@@ -152,7 +164,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225229, --Earthen Induction Coil
             225228, --Rust-Locked Mechanism
-            
+            -- Knowledge items bought from Lyrendal
+            227412, --Faded Engineer's Scribblings
+            227423, --Exceptional Engineer's Scribblings
+            227434, --Pristine Engineer's Scribblings
         }
     },
 
@@ -173,6 +188,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             224264, --Deepgrove Rose Petal
             224265, --Deepgrove Rose
+            -- Knowledge items bought from Lyrendal
+            227415, --Faded Herbalist's Notes
+            227426, --Exceptional Herbalist's Notes
+            227437, --Pristine Herbalist's Notes
         }
     },
 
@@ -196,6 +215,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225226, --Striated Inkstone
             225227, --Wax-Sealed Records
+            -- Knowledge items bought from Lyrendal
+            227408, --Faded Scribe's Runic Drawings
+            227419, --Exceptional Scribe's Runic Drawings
+            227430, --Pristine Scribe's Runic Drawings
         }
     },
 
@@ -219,6 +242,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225225, --Deepstone Fragment
             225224, --Diaphanous Gem Shards
+            -- Knowledge items bought from Lyrendal
+            227413, --Faded Jeweler's Illustrations
+            227424, --Exceptional Jeweler's Illustrations
+            227435, --Pristine Jeweler's Illustrations
         }
     },
 
@@ -242,6 +269,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225222, --Stone-Leather Swatch
             225223, --Sturdy Nerubian Carapace
+            -- Knowledge items bought from Lyrendal
+            227414, --Faded Leatherworker's Diagrams
+            227425, --Exceptional Leatherworker's Diagrams
+            227436, --Pristine Leatherworker's Diagrams
         }
     },
 
@@ -262,6 +293,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             224583, --Slab of Slate
             224584, --Erosion Polished Slate
+            -- Knowledge items bought from Lyrendal
+            227416, --Faded Miner's Notes
+            227427, --Exceptional Miner's Notes
+            227438, --Pristine Miner's Notes
         }
     },
 
@@ -282,7 +317,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             224780, --Toughened Tempest Pelt
             224781, --Abyssal Fur
-            
+            -- Knowledge items bought from Lyrendal
+            227417, --Faded Skinner's Notes
+            227428, --Exceptional Skinner's Notes
+            227439, --Pristine Skinner's Notes
         }
     },
     
@@ -306,6 +344,10 @@ local itemsByProfession = {
             -- Weekly knowledge items
             225220, --Chitin Needle
             225221, --Spool of Webweave 
+            -- Knowledge items bought from Lyrendal
+            227410, --Faded Tailor's Diagrams
+            227421, --Exceptional Tailor's Diagrams
+            227432, --Pristine Tailor's Diagrams
         }
     },
 }
