@@ -201,6 +201,7 @@ local itemsByProfession = {
             -- Weekly knowledge items
             224264, --Deepgrove Rose Petal
             224265, --Deepgrove Rose
+            224835, --Deepgrove Roots
             -- Knowledge items bought from Lyrendal
             227415, --Faded Herbalist's Notes
             227426, --Exceptional Herbalist's Notes
@@ -324,6 +325,7 @@ local itemsByProfession = {
             -- Weekly knowledge items
             224583, --Slab of Slate
             224584, --Erosion Polished Slate
+            224838, --Null Sliver
             -- Knowledge items bought from Lyrendal
             227416, --Faded Miner's Notes
             227427, --Exceptional Miner's Notes
@@ -354,6 +356,7 @@ local itemsByProfession = {
             -- Weekly knowledge items
             224780, --Toughened Tempest Pelt
             224781, --Abyssal Fur
+            224782, --Razor Talon
             -- Knowledge items bought from Lyrendal
             227417, --Faded Skinner's Notes
             227428, --Exceptional Skinner's Notes
