@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110002, 110005
 ## Title: BetterBags - Profession Knowledge (The War Within)
 ## Author: Zazou
 ## Version: @project-version@
