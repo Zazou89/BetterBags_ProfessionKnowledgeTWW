@@ -86,6 +86,7 @@ local itemsByProfession = {
             224024, --Theories of Bodily Transmutation, Chapter 8
             --Knowledge items bought from Renown Quartermasters
             224645, --Jewel-Etched Alchemy Notes
+            235865, --Ethereal Tome of Alchemy Knowledge
         }
     },
 
@@ -117,6 +118,7 @@ local itemsByProfession = {
             224038, --Smithing After Saronite
             --Knowledge items bought from Renown Quartermasters
             224647, --Jewel-Etched Blacksmithing Notes
+            235864, --Ethereal Tome of Blacksmithing Knowledge
         }
     },  
 
@@ -150,6 +152,7 @@ local itemsByProfession = {
             224050, --Web Sparkles: Pretty and Powerful
             --Knowledge items bought from Renown Quartermasters
             224652, --Jewel-Etched Enchanting Notes 
+            235863, --Ethereal Tome of Enchanting Knowledge
         }
     },
 
@@ -181,6 +184,7 @@ local itemsByProfession = {
             224052, --Clocks, Gears, Sprockets, and Legs
             --Knowledge items bought from Renown Quartermasters
             224653, --Machine-Learned Engineering Notes
+            235862, --Ethereal Tome of Engineering Knowledge
         }
     },
 
@@ -212,6 +216,7 @@ local itemsByProfession = {
             224656, --Void-Lit Herbalism Notes
             --Weekly quest rewards
             224817, --Algari Herbalist's Notes
+            235861, --Ethereal Tome of Herbalism Knowledge
         }
     },
 
@@ -243,6 +248,7 @@ local itemsByProfession = {
             224053, --Eight Views on Defense against Hostile Runes
             --Knowledge items bought from Renown Quartermasters
             224654, --Machine-Learned Inscription Notes
+            235860, --Ethereal Tome of Inscription Knowledge
         }
     },
 
@@ -274,6 +280,7 @@ local itemsByProfession = {
             224054, --Emergent Crystals of the Surface-Dwellers
             --Knowledge items bought from Renown Quartermasters
             224655, --Void-Lit Jewelcrafting Notes
+            235859, --Ethereal Tome of Jewelcrafting Knowledge
         }
     },
 
@@ -305,6 +312,7 @@ local itemsByProfession = {
             224056, --Uses for Leftover Husks (After You Take Them Apart)
             --Knowledge items bought from Renown Quartermasters
             224658, --Void-Lit Leatherworking Notes
+            235858, --Ethereal Tome of Leatherworking Knowledge
         }
     },
 
@@ -336,6 +344,7 @@ local itemsByProfession = {
             224651, --Machine-Learned Mining Notes
             --Weekly quest rewards
             224818, --Algari Miner's Notes
+            235857, --Ethereal Tome of Mining Knowledge
         }
     },
 
@@ -366,7 +375,8 @@ local itemsByProfession = {
             --Knowledge items bought from Renown Quartermasters
             224657, --Void-Lit Skinning Notes
             --Weekly quest rewards 
-            224807, --Algari Skinner's Notes          
+            224807, --Algari Skinner's Notes     
+            235856, --Ethereal Tome of Skinning Knowledge     
         }
     },
     
@@ -398,6 +408,7 @@ local itemsByProfession = {
             224036, --And That's A Web-Wrap!
             --Knowledge items bought from Renown Quartermasters
             224648, --Jewel-Etched Tailoring Notes
+            235855, --Ethereal Tome of Tailoring Knowledge
         }
     },
 }
